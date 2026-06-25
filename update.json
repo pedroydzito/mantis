@@ -1,7 +1,14 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "zipUrl": "https://github.com/pedroydzito/mantis/releases/latest/download/Mantis-win.zip",
   "changelog": [
+    {
+      "version": "0.1.2",
+      "date": "2026-06-25",
+      "notes": [
+        "façanha: adicionar visualização inicial para gerenciamento e navegação de projetos"
+      ]
+    },
     {
       "version": "0.1.1",
       "date": "2026-06-25",
