@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "zipUrl": "https://github.com/pedroydzito/mantis/releases/latest/download/Mantis-win.zip",
   "changelog": [
     {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "date": "2026-06-25",
       "notes": [
-        "Primeira versão publicada"
+        "Teste do fluxo de publicacao e auto-update"
       ]
     },
     {
