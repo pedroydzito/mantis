@@ -6,7 +6,8 @@
       "version": "0.1.2",
       "date": "2026-06-25",
       "notes": [
-        "façanha: adicionar visualização inicial para gerenciamento e navegação de projetos"
+        "Nova tela inicial (Home) para gerenciar e navegar entre projetos",
+        "Backup privado do código-fonte e publicação com um clique (Publicar.bat)"
       ]
     },
     {
